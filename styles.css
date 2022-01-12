@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #41514E;
+   
+}
+h1{
+   margin: 0;
+   font-family: 'Lobster', cursive;
+   font-size: 5.625rem;
+   color: #66BFBF;
+  line-height: 2;
+}
+h2{
+    font-family: 'Dongle', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Dongle', sans-serif;
+    
+    color: #11999E;
+}
+
+.top-container{
+    background-color: #AEFEFF;
+    margin: 0;
+    padding-top: 200px;  
+}
+
+.top-cloud{
+    position: absolute;
+    right: 310px;
+    top: 150px;
+}
+.bottom-cloud{
+    position: absolute;
+     top: 320px;
+    left: 310px;
+}
+.profile{
+    border-radius: 50%;
+    line-height: 0;
+    margin-top: 30px;
+}
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 30px;
+}
+.btn{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+   margin: 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.skill-image-one{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-image-two{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-def{
+    padding-left: 30px;
+}
+.bottom-container{
+    background-color:  #66BFBF;
+    height: 100px;
+    padding-top: 90px;
+}
+.feb{
+    color: #EAF6F6;
+}
+hr{
+    border-top: 8px dotted;
+    width: 65px;
+    height: 0px;
+    color: #EAF6F6;
+    border-left: 0;
+    border-bottom: 0;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4,  #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background:  #30e3cb;
+    background-image: -webkit-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top,  #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom,  #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .contact-me{
+      padding-bottom: 70px;
+     line-height: 2;
+  }
+  .skills{
+      line-height: 0;
+  }
